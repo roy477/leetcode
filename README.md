@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/roy477/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/roy477/leetcode/tree/master/0283-move-zeroes) |
+| [0622-design-circular-queue](https://github.com/roy477/leetcode/tree/master/0622-design-circular-queue) |
 | [0922-sort-array-by-parity-ii](https://github.com/roy477/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/roy477/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/roy477/leetcode/tree/master/1051-height-checker) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/roy477/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/roy477/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/roy477/leetcode/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/roy477/leetcode/tree/master/0622-design-circular-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/roy477/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Counting Sort
 |  |
@@ -72,9 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/roy477/leetcode/tree/master/0622-design-circular-queue) |
 | [2073-time-needed-to-buy-tickets](https://github.com/roy477/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/roy477/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/roy477/leetcode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/roy477/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/roy477/leetcode/tree/master/0283-move-zeroes) |
 | [0622-design-circular-queue](https://github.com/roy477/leetcode/tree/master/0622-design-circular-queue) |
+| [0682-baseball-game](https://github.com/roy477/leetcode/tree/master/0682-baseball-game) |
 | [0922-sort-array-by-parity-ii](https://github.com/roy477/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/roy477/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/roy477/leetcode/tree/master/1051-height-checker) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/roy477/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/roy477/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/roy477/leetcode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/roy477/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/roy477/leetcode/tree/master/0682-baseball-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/roy477/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Design
 |  |

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/roy477/leetcode/tree/master/0075-sort-colors) |
 | [0922-sort-array-by-parity-ii](https://github.com/roy477/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/roy477/leetcode/tree/master/1051-height-checker) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/roy477/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/roy477/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2418-sort-the-people](https://github.com/roy477/leetcode/tree/master/2418-sort-the-people) |
 ## Hash Table

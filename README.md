@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/roy477/leetcode/tree/master/0075-sort-colors) |
 | [0922-sort-array-by-parity-ii](https://github.com/roy477/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1051-height-checker](https://github.com/roy477/leetcode/tree/master/1051-height-checker) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/roy477/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2418-sort-the-people](https://github.com/roy477/leetcode/tree/master/2418-sort-the-people) |
 ## Hash Table
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/roy477/leetcode/tree/master/0075-sort-colors) |
 | [0922-sort-array-by-parity-ii](https://github.com/roy477/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1051-height-checker](https://github.com/roy477/leetcode/tree/master/1051-height-checker) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/roy477/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2418-sort-the-people](https://github.com/roy477/leetcode/tree/master/2418-sort-the-people) |
 ## Sliding Window
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/roy477/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0328-odd-even-linked-list](https://github.com/roy477/leetcode/tree/master/0328-odd-even-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/roy477/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/roy477/leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->

@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/roy477/leetcode/tree/master/0075-sort-colors) |
 | [0922-sort-array-by-parity-ii](https://github.com/roy477/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/roy477/leetcode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->

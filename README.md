@@ -105,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/roy477/leetcode/tree/master/0933-number-of-recent-calls) |
+## Math
+|  |
+| ------- |
+| [2600-k-items-with-the-maximum-sum](https://github.com/roy477/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
+## Greedy
+|  |
+| ------- |
+| [2600-k-items-with-the-maximum-sum](https://github.com/roy477/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 <!---LeetCode Topics End-->

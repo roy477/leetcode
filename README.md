@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/roy477/leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/roy477/leetcode/tree/master/1025-divisor-game) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/roy477/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/roy477/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/roy477/leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 ## Greedy
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/roy477/leetcode/tree/master/1025-divisor-game) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/roy477/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
